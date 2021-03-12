@@ -20,6 +20,7 @@ for i in range(case):
             move += 1
     print(answer[i])
 
+    
             
         
 
