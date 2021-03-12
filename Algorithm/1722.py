@@ -37,3 +37,4 @@ else:
             ans += fac[num]
         num -= 1
     print(ans+1)
+    
