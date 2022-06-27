@@ -18,7 +18,7 @@ for i in range(case):
         move_sum += move
         if answer[i] % 2 == 0:
             move += 1
-    print(answer[i])
+    print(answer[i])  
 
     
             
